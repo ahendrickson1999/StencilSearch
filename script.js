@@ -40,13 +40,13 @@ function displayResults(results) {
 
         <div class="card">
 
-            <p><b>Stock:</b> ${item["Stock Location"]}</p>
+            <h3><b>Stock:</b> ${item["Stock Location"]}</h3>
 
             <h3>${item["First Stencil Number"]}</h3>
 
-            <p><b>Second Stencil:</b> ${item["Second Stencil Number"]}</p>
+            <h3><b>Second Stencil:</b> ${item["Second Stencil Number"]}</h3>
 
-            <p><b>Assembly:</b> ${item["Assembly Number"]}</p>
+            <h3><b>Assembly:</b> ${item["Assembly Number"]}</h3>
 
 
         </div>
