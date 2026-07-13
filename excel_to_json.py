@@ -13,7 +13,7 @@ for row in ws.iter_rows(min_row=2, values_only=True):
 
     for header, value in zip(headers, row):
         if value is None:
-            value = ""
+            value = "None"
 
         record[header] = value
 

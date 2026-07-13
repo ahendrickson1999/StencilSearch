@@ -2,7 +2,7 @@
     {
         "Stock Location": "35000",
         "First Stencil Number": "RMI-STEN-001875",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20362",
         "Board Number": "16105",
         "Ordered Date": "1/22/2025"
@@ -10,7 +10,7 @@
     {
         "Stock Location": "35001",
         "First Stencil Number": "RMI-STEN-001876",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20372",
         "Board Number": "K10-1270A",
         "Ordered Date": "9/24/2018"
@@ -18,7 +18,7 @@
     {
         "Stock Location": "35002",
         "First Stencil Number": "RMI-STEN-001880",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "152673, 152675",
         "Board Number": "548214",
         "Ordered Date": "4/29/2019"
@@ -26,7 +26,7 @@
     {
         "Stock Location": "35003",
         "First Stencil Number": "RMI-STEN-002587",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005091-002, 151767",
         "Board Number": "RMI-PCBA-005091, 548323",
         "Ordered Date": "8/30/2023"
@@ -34,7 +34,7 @@
     {
         "Stock Location": "35004",
         "First Stencil Number": "RMI-STEN-001884",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "153817",
         "Board Number": "548555",
         "Ordered Date": "2/29/2018"
@@ -82,7 +82,7 @@
     {
         "Stock Location": "35010",
         "First Stencil Number": "RMI-STEN-001896",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "154764",
         "Board Number": "548901",
         "Ordered Date": "10/19/2022"
@@ -106,7 +106,7 @@
     {
         "Stock Location": "35013",
         "First Stencil Number": "RMI-STEN-001901",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "154886, 155082, 155157, 155594",
         "Board Number": "548967",
         "Ordered Date": "11/10/2020"
@@ -130,7 +130,7 @@
     {
         "Stock Location": "35016",
         "First Stencil Number": "RMI-STEN-002318",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005238B",
         "Board Number": "RMI-PCBB-005238",
         "Ordered Date": "3/24/2026"
@@ -145,11 +145,11 @@
     },
     {
         "Stock Location": "35018",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35019",
@@ -202,7 +202,7 @@
     {
         "Stock Location": "35025",
         "First Stencil Number": "RMI-STEN-002540",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1799F",
         "Board Number": "CB0594F",
         "Ordered Date": "5/9/2023"
@@ -210,7 +210,7 @@
     {
         "Stock Location": "35026",
         "First Stencil Number": "RMI-STEN-001928",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC0822F",
         "Board Number": "CB0257F",
         "Ordered Date": "5/20/2019"
@@ -234,7 +234,7 @@
     {
         "Stock Location": "35029",
         "First Stencil Number": "RMI-STEN-001934",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1009F, CC1035F, CC1075F, CC1096F",
         "Board Number": "CB0340F",
         "Ordered Date": "3/6/2017"
@@ -258,7 +258,7 @@
     {
         "Stock Location": "35032",
         "First Stencil Number": "RMI-STEN-001939",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC0959F, CC0960F",
         "Board Number": "CB0361F",
         "Ordered Date": "9/7/2022"
@@ -266,7 +266,7 @@
     {
         "Stock Location": "35033",
         "First Stencil Number": "RMI-STEN-002140",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC0954F, CC1407F",
         "Board Number": "CB0373F",
         "Ordered Date": "12/6/2019"
@@ -274,7 +274,7 @@
     {
         "Stock Location": "35034",
         "First Stencil Number": "RMI-STEN-002187",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1161F, CC1342F",
         "Board Number": "CB0391F",
         "Ordered Date": "11/23/2020"
@@ -282,7 +282,7 @@
     {
         "Stock Location": "35035",
         "First Stencil Number": "RMI-STEN-001948",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC0658F, CC1183F, CC5658F",
         "Board Number": "CB0411F",
         "Ordered Date": "1/24/2023"
@@ -298,7 +298,7 @@
     {
         "Stock Location": "35037",
         "First Stencil Number": "RMI-STEN-001951",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC9005F",
         "Board Number": "CB0442F",
         "Ordered Date": "7-19-2024"
@@ -322,7 +322,7 @@
     {
         "Stock Location": "35040",
         "First Stencil Number": "RMI-STEN-001966",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1399F, CC1739F",
         "Board Number": "CB0494F",
         "Ordered Date": "7-29-2022"
@@ -330,7 +330,7 @@
     {
         "Stock Location": "35041",
         "First Stencil Number": "RMI-STEN-001967",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1443F",
         "Board Number": "CB0495F",
         "Ordered Date": "10-12-2020"
@@ -338,7 +338,7 @@
     {
         "Stock Location": "35042",
         "First Stencil Number": "RMI-STEN-001970",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1415F, CC1517F, CC1518F",
         "Board Number": "CB0506F",
         "Ordered Date": "11-16-2018"
@@ -378,7 +378,7 @@
     {
         "Stock Location": "35047",
         "First Stencil Number": "RMI-STEN-001984",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005053-001, CC1603F",
         "Board Number": "CB0541F",
         "Ordered Date": "4/6/2023"
@@ -386,7 +386,7 @@
     {
         "Stock Location": "35048",
         "First Stencil Number": "RMI-STEN-001985",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005075-002, CC1462F",
         "Board Number": "CB0545F",
         "Ordered Date": "7/19/2019"
@@ -441,16 +441,16 @@
     },
     {
         "Stock Location": "35055",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35056",
         "First Stencil Number": "RMI-STEN-002008",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1608F, RMI-PCBA-005081, CC1457F, CC1718F, CC1757F ",
         "Board Number": "RMI-PCBB-005081, CB0570F",
         "Ordered Date": "1/23/2023"
@@ -458,7 +458,7 @@
     {
         "Stock Location": "35057",
         "First Stencil Number": "RMI-STEN-002565",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "0036840",
         "Board Number": "0036840",
         "Ordered Date": "8/14/2023"
@@ -482,7 +482,7 @@
     {
         "Stock Location": "35060",
         "First Stencil Number": "RMI-STEN-002126",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20241, R3300009, R3300017, R3300034, R3300104 ",
         "Board Number": "R3300009",
         "Ordered Date": "12/2/2024"
@@ -538,7 +538,7 @@
     {
         "Stock Location": "35067",
         "First Stencil Number": "RMI-STEN-002032",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20260, R3300001",
         "Board Number": "20260, R3300001",
         "Ordered Date": "7/1/2021"
@@ -562,7 +562,7 @@
     {
         "Stock Location": "35070",
         "First Stencil Number": "RMI-STEN-002041",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300008",
         "Board Number": "R3300008",
         "Ordered Date": "4/14/2015"
@@ -570,18 +570,18 @@
     {
         "Stock Location": "35071",
         "First Stencil Number": "RMI-STEN-002043",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300010",
         "Board Number": "R3300010",
         "Ordered Date": "9/29/2022"
     },
     {
         "Stock Location": "35072",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35073",
@@ -610,7 +610,7 @@
     {
         "Stock Location": "35076",
         "First Stencil Number": "RMI-STEN-002178",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20246, R3300022",
         "Board Number": "20246, R3300022",
         "Ordered Date": "3/25/2020"
@@ -618,7 +618,7 @@
     {
         "Stock Location": "35077",
         "First Stencil Number": "RMI-STEN-002055",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300023",
         "Board Number": "R3300023",
         "Ordered Date": "5/25/2023"
@@ -706,7 +706,7 @@
     {
         "Stock Location": "35088",
         "First Stencil Number": "RMI-STEN-002630",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005406",
         "Board Number": "RMI-PCBA-005406",
         "Ordered Date": "1/12/2023"
@@ -730,7 +730,7 @@
     {
         "Stock Location": "35091",
         "First Stencil Number": "RMI-STEN-002581",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-004955-001",
         "Board Number": "RMI-PCBA-004955-001",
         "Ordered Date": "1/17/2024"
@@ -754,7 +754,7 @@
     {
         "Stock Location": "35094",
         "First Stencil Number": "RMI-STEN-002579",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300161",
         "Board Number": "R3300161",
         "Ordered Date": "8/31/2023"
@@ -770,7 +770,7 @@
     {
         "Stock Location": "35096",
         "First Stencil Number": "RMI-STEN-002521",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20525",
         "Board Number": "16427",
         "Ordered Date": "7/25/2023"
@@ -778,7 +778,7 @@
     {
         "Stock Location": "35097",
         "First Stencil Number": "RMI-STEN-002717",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300157",
         "Board Number": "R3300157",
         "Ordered Date": "9/17/2024"
@@ -842,7 +842,7 @@
     {
         "Stock Location": "35105",
         "First Stencil Number": "RMI-STEN-002454",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005019, CC1514F, CC1515F",
         "Board Number": "RMI-PCBB-005019, CB0523F, CB0523F",
         "Ordered Date": "10/10/2022"
@@ -866,7 +866,7 @@
     {
         "Stock Location": "35108",
         "First Stencil Number": "RMI-STEN-002437",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005196",
         "Board Number": "RMI-PCBA-005196",
         "Ordered Date": "9/14/2022"
@@ -898,7 +898,7 @@
     {
         "Stock Location": "35112",
         "First Stencil Number": "RMI-STEN-002444",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20241-X, R3300149",
         "Board Number": "R3300149",
         "Ordered Date": "12/21/2022"
@@ -938,7 +938,7 @@
     {
         "Stock Location": "35117",
         "First Stencil Number": "RMI-STEN-002389",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300123",
         "Board Number": "R3300123",
         "Ordered Date": "3/18/2022"
@@ -954,7 +954,7 @@
     {
         "Stock Location": "35119",
         "First Stencil Number": "RMI-STEN-002413",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1648F",
         "Board Number": "CB0591F",
         "Ordered Date": "3/22/2023"
@@ -962,7 +962,7 @@
     {
         "Stock Location": "35120",
         "First Stencil Number": "RMI-STEN-002073",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300043",
         "Board Number": "R3300043",
         "Ordered Date": "5/13/2020"
@@ -970,7 +970,7 @@
     {
         "Stock Location": "35121",
         "First Stencil Number": "RMI-STEN-002078",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300052",
         "Board Number": "R3300052",
         "Ordered Date": "6/16/2022"
@@ -978,7 +978,7 @@
     {
         "Stock Location": "35122",
         "First Stencil Number": "RMI-STEN-002079",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300053, R3300054, R3300059",
         "Board Number": "R3300053",
         "Ordered Date": "10/28/2016"
@@ -986,7 +986,7 @@
     {
         "Stock Location": "35123",
         "First Stencil Number": "RMI-STEN-002137",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "20400, R3300063",
         "Board Number": "R3300063",
         "Ordered Date": "11/16/2019"
@@ -994,7 +994,7 @@
     {
         "Stock Location": "35124",
         "First Stencil Number": "RMI-STEN-002096",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300076, R3300080",
         "Board Number": "R3300076",
         "Ordered Date": "1/26/2022"
@@ -1010,7 +1010,7 @@
     {
         "Stock Location": "35126",
         "First Stencil Number": "RMI-STEN-002099",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300093",
         "Board Number": "R3300093",
         "Ordered Date": "8/8/2019"
@@ -1018,7 +1018,7 @@
     {
         "Stock Location": "35127",
         "First Stencil Number": "RMI-STEN-002548",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "850-9522-033",
         "Board Number": "751-9000-115",
         "Ordered Date": "2/30/2023"
@@ -1026,7 +1026,7 @@
     {
         "Stock Location": "35128",
         "First Stencil Number": "RMI-STEN-002101",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "SA001594-001",
         "Board Number": "EL001592-001",
         "Ordered Date": "1/18/2017"
@@ -1066,7 +1066,7 @@
     {
         "Stock Location": "35133",
         "First Stencil Number": "RMI-STEN-002195",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1630F",
         "Board Number": "CB0467F",
         "Ordered Date": "4/21/2020"
@@ -1098,7 +1098,7 @@
     {
         "Stock Location": "35137",
         "First Stencil Number": "RMI-STEN-002230",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1640F",
         "Board Number": "CB0582F",
         "Ordered Date": "9/8/2020"
@@ -1106,7 +1106,7 @@
     {
         "Stock Location": "35138",
         "First Stencil Number": "RMI-STEN-002361",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1647F",
         "Board Number": "CB0589F",
         "Ordered Date": "11/17/2021"
@@ -1145,16 +1145,16 @@
     },
     {
         "Stock Location": "35143",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35144",
         "First Stencil Number": "RMI-STEN-002294",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "CC1644F",
         "Board Number": "CB0586F",
         "Ordered Date": "6/28/2022"
@@ -1170,7 +1170,7 @@
     {
         "Stock Location": "35146",
         "First Stencil Number": "RMI-STEN-002330",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300119",
         "Board Number": "R3300119",
         "Ordered Date": "9/30/2021"
@@ -1186,7 +1186,7 @@
     {
         "Stock Location": "35148",
         "First Stencil Number": "RMI-STEN-002340",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "R3300120",
         "Board Number": "R3300120",
         "Ordered Date": "9/14/2021"
@@ -1234,7 +1234,7 @@
     {
         "Stock Location": "35154",
         "First Stencil Number": "RMI-STEN-002794",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005507",
         "Board Number": "RMI-PCBB-005507",
         "Ordered Date": "5/14/2025"
@@ -1282,7 +1282,7 @@
     {
         "Stock Location": "35160",
         "First Stencil Number": "RMI-STEN-002873",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005542",
         "Board Number": "RMI-PCBB-005542",
         "Ordered Date": "1/28/2026"
@@ -1290,633 +1290,633 @@
     {
         "Stock Location": "35161",
         "First Stencil Number": "RMI-STEN-002887",
-        "Second Stencil Number": "",
+        "Second Stencil Number": "None",
         "Assembly Number": "RMI-PCBA-005557",
         "Board Number": "RMI-PCBB-005557",
         "Ordered Date": "3/6/2026"
     },
     {
         "Stock Location": "35162",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35163",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35164",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35165",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35166",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35167",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35168",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35169",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35170",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35171",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35172",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35173",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35174",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35175",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35176",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35177",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35178",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35179",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35180",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35181",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35182",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35183",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35184",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35185",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35186",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35187",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35188",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35189",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35190",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35191",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35192",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35193",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35194",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35195",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35196",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35197",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35198",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35199",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35200",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35201",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35202",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35203",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35204",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35205",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35206",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35207",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35208",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35209",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35210",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35211",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35212",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35213",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35214",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35215",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35216",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35217",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35218",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35219",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35220",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35221",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35222",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35223",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35224",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35225",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35226",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35227",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35228",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35229",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35230",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35231",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35232",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35233",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35234",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35235",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35236",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35237",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35238",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     },
     {
         "Stock Location": "35239",
-        "First Stencil Number": "",
-        "Second Stencil Number": "",
-        "Assembly Number": "",
-        "Board Number": "",
-        "Ordered Date": ""
+        "First Stencil Number": "None",
+        "Second Stencil Number": "None",
+        "Assembly Number": "None",
+        "Board Number": "None",
+        "Ordered Date": "None"
     }
 ]
